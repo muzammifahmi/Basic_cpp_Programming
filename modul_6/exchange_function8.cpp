@@ -20,7 +20,7 @@ int main()
     {
         x = 7;
         pilih = nama_hari;
-        cout << "hari ke-" << hari << " adalah hari " << *(pilih + x) << endl;
+        cout << "hari ke-" << hari << " adalah " << *(pilih + x) << endl;
     }
 
     return 0;

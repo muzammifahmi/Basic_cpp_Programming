@@ -1,5 +1,5 @@
 //create hello world
-#inlude <iostream>
+#include <iostream>
 using namespace std;
 
 int main(){
